@@ -1,2 +1,3 @@
-# Predict-Titanic-Survival-Kaggle-Competition
-ML project using Python and Pytorch to predict Titanic passenger survival. Includes EDA, preprocessing, model evaluation, and an ablation study. Ideal for data science learners. 
+# Predict Titanic Survival | Kaggle Competition
+
+This repository hosts a machine learning project designed to predict the survival of passengers from the Titanic disaster. The project utilizes Python and scikit-learn, featuring comprehensive exploratory data analysis, data preprocessing, model selection, evaluation, and an ablation study to assess the impact of different features and models on prediction accuracy. Intended for data science enthusiasts and educational purposes, the project is in a stable release phase. Contributions, particularly in enhancing model performance and exploring new features, are encouraged. 
